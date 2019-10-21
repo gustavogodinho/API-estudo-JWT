@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIexemploJWT", "APIexemploJWT\APIexemploJWT.csproj", "{7047CAE8-492A-4A00-A803-7EC0B738F146}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "APIexemploJWT.DataBase", "APIexemploJWT.DataBase\APIexemploJWT.DataBase.sqlproj", "{4211BE68-E302-45D7-82A5-327687B77C6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{7047CAE8-492A-4A00-A803-7EC0B738F146}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7047CAE8-492A-4A00-A803-7EC0B738F146}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7047CAE8-492A-4A00-A803-7EC0B738F146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4211BE68-E302-45D7-82A5-327687B77C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4211BE68-E302-45D7-82A5-327687B77C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4211BE68-E302-45D7-82A5-327687B77C6C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4211BE68-E302-45D7-82A5-327687B77C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4211BE68-E302-45D7-82A5-327687B77C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4211BE68-E302-45D7-82A5-327687B77C6C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
